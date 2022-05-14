@@ -21,4 +21,7 @@ Now, after the value has defuzzified – the user will see a graphical represent
 
 Note of Importance: The Inference System used is the Mamdani Inference System.
 
+------------------------------------------------------------------------------------------------------
+
+
 
