@@ -1,6 +1,8 @@
 # Project_Fuzzy_Logic_ABS
 
-This is a Fuzzy Logic Automatic Braking System, that has the main aim of this project is to devise a Fuzzy System that enables the Automatic Breaking System (ABS) of cars to operate more efficiently, depending on the speed, distance and the braking force of the car – to maintain an appropriate distance between the cars. 
+This is a Fuzzy Logic Automatic Braking System:
+
+The main aim of this project is to devise a Fuzzy System that enables the Automatic Breaking System (ABS) of cars to operate more efficiently, depending on the speed, distance and the braking force of the car – to maintain an appropriate distance between the cars. 
 
 This System focuses on these:
 
