@@ -23,5 +23,18 @@ Note of Importance: The Inference System used is the Mamdani Inference System.
 
 ------------------------------------------------------------------------------------------------------
 
+Execution of the Implementation(s):
+
+For the execution of these implementations a couple of pre-requisites need to be on the machine:
+
+1. Python (Preferably the Latest Version) needs to be installed on the Machine, this can be done via going to this website and following the steps correctly:  
+
+Additionally, if the machine already has python installed - you can check by typing a specific command on the terminal to see what version of python is installed. 
+
+2. SkFuzzy - Scikit Fuzzy Toolkit needs to be installed on to the machine using the terminal - follow the steps on this website:
+
+3. Install Jupyter Notebook - follow the steps in the command line terminal from this website:
+
+
 
 
