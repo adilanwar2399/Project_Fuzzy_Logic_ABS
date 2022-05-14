@@ -6,7 +6,7 @@ This System focuses on these:
 
 There are 2 approaches:
 
-1. The Approach that uses the Control API
+1. The Approach that uses the Control API.
 2. The Alternative approach (not using the control API/ Contol Primer).
 
 Firstly, the User inputs the values via prompts showing in the console for the antecedents – speed and distance values – then these processes occur:
