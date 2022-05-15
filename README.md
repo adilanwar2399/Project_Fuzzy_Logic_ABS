@@ -21,6 +21,8 @@ There are 2 approaches:
 1. The Approach that uses the Control API.
 2. The Alternative approach (not using the control API/ Contol Primer).
 
+Functionality of the implementation(s):
+
 Firstly, the User inputs the values via prompts showing in the console for the antecedents – speed and distance values – then these processes occur:
 
 •	The inputted values get fuzzified – all the universe variables will be displayed – with their relationships with their respective membership functions – graphically.
