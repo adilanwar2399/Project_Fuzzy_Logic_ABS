@@ -6,10 +6,13 @@ The main aim of this project is to devise a Fuzzy System that enables the Automa
 
 Measurement Units plus constraints:
 
-Speed -> km/h (kilometres per hour) - (Maximum Input (Antecedent) Speed: 100km)
-Velocity -> m/s (metres per second) 
-Distance -> m (metres) (Maximum Input (Antecedent) distance: 60m)
-Brake Force -> the force is measured in N (Newtons) - but the value (intensity) is represented as a % (Percentage) - (0-100% (It can't go lower than 0% and it can't go higher than 100%)).
+• Speed -> km/h (kilometres per hour) - (Maximum Input (Antecedent) Speed: 100km)
+
+• Velocity -> m/s (metres per second) - (Normally considered but not utilised in this implementation as the other two antecedents were used).
+
+• Distance -> m (metres) (Maximum Input (Antecedent) distance: 60m).
+
+• Brake Force -> the force is measured in N (Newtons) - but the value (intensity) is represented as a % (Percentage) - (0-100% (It can't go lower than 0% and it can't go higher than 100%)).
 
 This System focuses on these:
 
