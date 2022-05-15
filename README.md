@@ -39,7 +39,7 @@ Now, after the value has defuzzified – the user will see a graphical represent
 
 Note of Importance: The Inference System used is the Mamdani Inference System.
 
-Another important point to remember is that the Python Code files can be copy and pasted into separate Jupyter Notebook documents and run like that also ensure before simulating that the Kernel is reset and fresh to ensure that it starts and simulate each implementaion correctly and accurately. 
+Another important point to remember is that the Python Code files can be copy and pasted into separate Jupyter Notebook documents and run like that also ensure before simulating that the Kernel is reset and fresh to ensure that it starts and simulates each implementation correctly and accurately. 
 
 The Jupyter Notebooks of the respective 2 implementations are displayed for you to see worked example(s) or how this Automatic Braking System works.
 
