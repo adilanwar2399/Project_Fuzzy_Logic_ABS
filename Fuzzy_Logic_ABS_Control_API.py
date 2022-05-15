@@ -198,3 +198,30 @@ while (True==True):
     else: 
         print ("0% is the required braking force; braking is not necessary; you may continue to travel.")
         #brake_Force.view(sim=executionOfBrakes)
+
+################################################################################################################################################################################################################################################################################################################################# 
+# Project Inspirations:
+
+# This Project's implementation was inspired mainly by these respective works:
+
+# 1. Scikit-fuzzy development team. (2022), Tipping Problem [Online] [Accessed: 20th December 2021] https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_tipping_problem_newapi.html
+
+# 2.Scikit-fuzzy development team. (2022), Tipping Problem: The Hard Way [Online] [Accessed: 20th December 2021] https://pythonhosted.org/scikit-fuzzy/auto_examples/plot_tipping_problem.html
+
+# 3. Bilal, E. (2020) Automatic Braking System Using Fuzzy Logic [Online] [Accessed: 21st November 2021] https://github.com/emrebilal/Automatic-Brake-System-using-Fuzzy-Logic
+
+# 4. Rizianiza, I. Shoodiqin, D,M. (2005) Automatic braking system using fuzzy logic method [Online] [Accessed: 2nd September 2021] https://iopscience.iop.org/article/10.1088/1742-6596/1833/1/012005/pdf
+
+# 5. Griffiths, A, J. (2019) Jupyter-Fuzzy-Logic System [Online] [Accessed: 21st November 2021] https://github.com/aidanjgriffiths/Fuzzy-Logic-System-Jupyter
+
+# 6. Bassey, E,F. Udofia, K,M. (2019) Modelling of Automatic Braking System Using Fuzzy Logic Controller [Online] [Accessed: 4th September 2021] https://www.ajol.info/index.php/njt/article/view/191781
+
+# 7. A. N. D. Dewa, O. Wahyunggoro and P. Nugroho, "Prototype of Automatic Braking System on Car Model Using Fuzzy Logic," 2019 International Conference on Sustainable Engineering and Creative Computing (ICSECC), 2019, pp. 369-374, doi: 10.1109/ICSECC.2019.8907011. [Accessed: 4th September 2021]
+
+# 8. Ding, X. (2018) Auto-Brake-System [Online] [Accessed: 21st November 2021] https://github.com/XiangyuDing/Auto-Brake-System
+
+# 9. Jarrah, M,A. Shaout, A. (1999) Automatic Braking System Using Fuzzy Logic (Abstract) [Online] [Accessed: 2nd September 2021] https://dl.acm.org/doi/10.5555/1314668.1314672
+
+# 10. The MathWorks. (2022) Fuzzy Inference Process [Online] [Accessed: 22nd December 2021] https://uk.mathworks.com/help/fuzzy/fuzzy-inference-process.html#FP347
+
+# 11. The MathWorks. (2022) Mamdani and Sugeno Inference Systems [Online] [Accessed: 23rd December 2021] https://uk.mathworks.com/help/fuzzy/types-of-fuzzy-inference-systems.html        
