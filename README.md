@@ -37,6 +37,8 @@ Now, after the value has defuzzified – the user will see a graphical represent
 
 Note of Importance: The Inference System used is the Mamdani Inference System.
 
+Link to my Github: https://github.com/adilanwar2399/Project_Fuzzy_Logic_ABS.git
+
 ------------------------------------------------------------------------------------------------------
 
 Execution of the Implementation(s):
