@@ -80,6 +80,11 @@ https://www.ajol.info/index.php/njt/article/view/191781
 9. Jarrah, M,A. Shaout, A. (1999) Automatic Braking System Using Fuzzy Logic (Abstract) [Online] [Accessed: 2nd September 2021]
 https://dl.acm.org/doi/10.5555/1314668.1314672
 
+10.	The MathWorks. (2022) Fuzzy Inference Process [Online] [Accessed: 22nd December 2021] https://uk.mathworks.com/help/fuzzy/fuzzy-inference-process.html#FP347
+
+11.	The MathWorks. (2022) Mamdani and Sugeno Inference Systems [Online] [Accessed: 23rd December 2021] https://uk.mathworks.com/help/fuzzy/types-of-fuzzy-inference-systems.html
+
+
 
 
 
