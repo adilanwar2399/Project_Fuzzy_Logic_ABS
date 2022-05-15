@@ -51,7 +51,7 @@ Pre-requisites for the execution of the implementation(s):
 
 For the execution of these implementations a couple of pre-requisites need to be on the machine:
 
-1. Python (Preferably the Latest Version) needs to be installed on the Machine, this can be done via going to this website and following the steps correctly:  
+1. Python (Preferably the Latest Version) needs to be installed on the Machine, this can be done via going to this website and following the steps correctly choosing the correct version for the correct operating system (OS) of the machine:  
 
 • -> https://www.python.org/downloads/            
 
