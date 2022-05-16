@@ -6,7 +6,7 @@ The main aim of this project is to devise a Fuzzy System that enables the Automa
 
 Measurement units plus constraints and assumptions:
 
-• Speed -> km/h (kilometres per hour) - (Maximum Input (Antecedent) Speed: 100km)
+• Speed -> km/h (kilometres per hour) - (Maximum Input (Antecedent) Speed: 100km).
 
 • Velocity -> m/s (metres per second) - (Normally considered but not utilised in this implementation as the other two antecedents were used).
 
