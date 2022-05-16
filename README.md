@@ -35,7 +35,7 @@ Firstly, the User inputs the values via prompts showing in the console for the a
 
 •	Finally, the aggregated value gets defuzzified using the most popular centroid method of defuzzification in order to obtain the optimum braking force needed to be displayed as a percentage value.
 
-Now, after the value has defuzzified – the user will see a graphical representation of the potential overlaps and a single line will also be drawn on the graph’s highlighted region, indicating the braking force’s percentage value – showing that if very heavy, heavy, very light or light intensity of braking is needed – based on the values the user inputted.
+Now, after the value has defuzzified – the user will see a graphical representation of the potential overlaps and a single line will also be drawn on the graph’s highlighted region that is indicating the braking force’s percentage value – showing that if very heavy, heavy, very light or light intensity of braking is needed – based on the values the user inputted.
 
 Note of Importance: The Inference System used is the Mamdani Inference System.
 
