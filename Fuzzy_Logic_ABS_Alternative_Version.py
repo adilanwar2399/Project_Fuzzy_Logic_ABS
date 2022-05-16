@@ -95,6 +95,24 @@ for everyAxis in (Distance_Axis_Plot,):
 
 plt.tight_layout()
 
+fig, (Speed_Axis_Plot) = plt.subplots(figsize=(30, 10), nrows =1)
+
+Speed_Axis_Plot.set_title('Speed: ', fontsize='25')
+Speed_Axis_Plot.plot(speed, speed_very_fast, 'r', linewidth=2.5, label='Very Fast')
+Speed_Axis_Plot.plot(speed, speed_fast, 'g', linewidth=2.5, label='Fast')
+Speed_Axis_Plot.plot(speed, speed_very_slow, 'b', linewidth=2.5, label='Very Slow')
+Speed_Axis_Plot.plot(speed, speed_slow, 'm', linewidth=2.5, label='Slow')
+Speed_Axis_Plot.legend()
+
+# Turn off top/right axes
+for everyAxis in (Speed_Axis_Plot,):
+    everyAxis.spines['top'].set_visible(False)
+    everyAxis.spines['right'].set_visible(False)
+    everyAxis.get_xaxis().tick_bottom()
+    everyAxis.get_yaxis().tick_left()
+
+plt.tight_layout()
+
 fig, (Brake_Axis_Plot) = plt.subplots(figsize=(30, 10), nrows =1)
 
 Brake_Axis_Plot.set_title('Brake Force:', fontsize='25')
